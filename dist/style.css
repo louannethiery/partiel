@@ -1,3 +1,16 @@
-
+ul {
+  text-align: right;
+  list-style: none;
+  padding-right: 6rem;
+}
+ul li {
+  display: inline;
+  font-size: 3rem;
+  color: #a3dfd0;
+  padding-left: 1.5rem;
+}
+ul li:hover {
+  color: #001534;
+}
 
 /*# sourceMappingURL=style.css.map */

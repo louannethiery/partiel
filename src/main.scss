@@ -1,0 +1,16 @@
+ul {
+    text-align: right;
+    list-style: none;
+    padding-right: 6rem;
+
+    li {
+        display: inline;
+        font-size: 3rem;
+        color: rgb(163, 223, 208);
+        padding-left: 1.5rem;
+        
+        &:hover {
+            color: #001534;
+        }
+    }
+  }
